@@ -50,8 +50,9 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 [INFO] Finished at: 2016-12-13T17:52:51-08:00
 [INFO] Final Memory: 16M/211M
 [INFO] ------------------------------------------------------------------------
-[example] ls                                                                                                                                                                                                                                                                                                                          master  ✭ ✱
-example.iml pom.xml     src         target
+```
+Run the newly built jar
+```
 [example] java -cp target/marissa-app-1.0-SNAPSHOT.jar com.marissa.app.App                                                                                                                                                                                                                                                            master  ✭ ✱
 Hello World!
 ```
